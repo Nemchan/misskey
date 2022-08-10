@@ -5,3 +5,5 @@
 	
 
 ## **A fork of the [Misskey](https://misskey-hub.net/)&#x270c;**
+---
+[&#x1f4ce; Original Repo](https://github.com/misskey-dev/misskey) , [&#x1f4c4; Official Documents](https://misskey-hub.net/)
